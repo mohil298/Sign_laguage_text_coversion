@@ -1,6 +1,6 @@
 
 import cv2
-
+#commit
 camera = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 if not camera.isOpened():
